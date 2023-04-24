@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace CsvGenerator
-{
     class Program
     {
         static void Main(string[] args)
@@ -50,5 +48,4 @@ namespace CsvGenerator
         public string FullName { get; set; }
         public string SpecialRanking { get; set; }
     }
-}
  */

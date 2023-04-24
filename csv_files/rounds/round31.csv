@@ -1,7 +1,7 @@
-HomeTeam,AwayTeam,HomeScore,AwayScore
-RFC,FCM,3,4
-AAB,AGF,1,4
-BIF,VFF,4,3
-OB,SIF,0,4
-FCN,SJE,1,2
-VB,FCK,4,3
+HomeTeam vs AwayTeam,HomeScore,AwayScore
+BIF,OB,1,4
+RFC,FCM,3,3
+VB,SJE,4,4
+FCN,FCK,0,1
+VFF,SIF,2,2
+AGF,AAB,1,1
