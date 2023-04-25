@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/oliverbark/.nuget/packages/": {}
+    "C:\\Users\\sofia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oliverbark/Documents/KEA/App/Mandatory_football_table/Mandatory_football_table.csproj",
+      "projectUniqueName": "C:\\Users\\sofia\\IdeaProjects\\SuperligaTabel\\Mandatory_football_table.csproj",
       "projectName": "Mandatory_football_table",
-      "projectPath": "/Users/oliverbark/Documents/KEA/App/Mandatory_football_table/Mandatory_football_table.csproj",
-      "packagesPath": "/Users/oliverbark/.nuget/packages/",
-      "outputPath": "/Users/oliverbark/Documents/KEA/App/Mandatory_football_table/obj/",
+      "projectPath": "C:\\Users\\sofia\\IdeaProjects\\SuperligaTabel\\Mandatory_football_table.csproj",
+      "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sofia\\IdeaProjects\\SuperligaTabel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/oliverbark/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

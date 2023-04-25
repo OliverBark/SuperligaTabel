@@ -1,7 +1,16 @@
 HomeTeam vs AwayTeam,HomeScore,AwayScore
+<<<<<<< HEAD
 OB,FCK,1,1
 AAB,VB,1,4
 BIF,VFF,2,2
 FCM,FCN,4,0
 SJE,SIF,1,4
 RFC,AGF,4,4
+=======
+AAB,AGF,3,4
+FCN,RFC,4,4
+VB,FCK,3,1
+BIF,VFF,3,4
+FCM,OB,4,1
+SJE,SIF,2,1
+>>>>>>> 97d4374e29a659b38bd38b2c55480cd9f87ae9f8
